@@ -1,6 +1,6 @@
 # Amazon DeepRacer with LiDAR - ASU Capstone Project
 
-The project was completed as the team's undergraduate electrical engineering capstone. This repository contains the files used during the project.
+The project was completed as the team's undergraduate electrical engineering capstone during the 2024-2025 school year. This repository contains the files used during the project.
 
 ## Project Description
 
